@@ -36,6 +36,12 @@
       "description": "background_color_description",
       "label": "background_color_label",
       "value": "#FFFFFF"
+    }, {
+      "identifier": "header_color",
+      "type": "color",
+      "description": "header_color_description",
+      "label": "header_color_label",
+      "value": "#FFFFFF"
     }]
   }, {
     "label": "fonts_group_label",
