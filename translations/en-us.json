@@ -10,6 +10,8 @@
   "link_color_label": "Link color",
   "background_color_description": "Background color of your Help Center",
   "background_color_label": "Background color",
+  "header": "Header color of your Help Center",
+  "header_color_label": "Header color",
   "fonts_group_label": "Fonts",
   "heading_font_description": "Font for headings",
   "heading_font_label": "Heading Font",
